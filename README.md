@@ -1,5 +1,7 @@
 # fresh project
 
+Tutorial : https://arjunphp.com/deno-fresh-connect-to-the-mysql-database/
+
 ### Usage
 
 Start the project:
